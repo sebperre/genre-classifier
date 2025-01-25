@@ -1,4 +1,4 @@
-# Music Lyrics Classifier
+# Music Genre Classifier
 
 ## About
 During the Summer of 2023, I took a Data Mining class (SENG 474) to learn about machine learning. I learned about decision trees, bayesian classifiers, recommender systems, naive bayes, support vector machines, text analytics, linear regression, logistic regression, K-Means clustering and much more. At the end of the class, we had to create a project about what we learned. I created a lyrics classifier with my fellow classmate Anita which can classify music into genres based on lyrics. We also analysed the data and wrote up a report which you can find by clicking on Data_Mining_Report.pdf to get a comprehensive overview of how the code works.
