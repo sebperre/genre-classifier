@@ -1,4 +1,4 @@
-# [Project Name]
+# Music Genre Detector
 
 Quick abstract of the project.
 
